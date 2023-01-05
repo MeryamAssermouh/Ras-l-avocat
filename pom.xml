@@ -5,11 +5,6 @@
     <artifactId>Dame</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
-    <plugin>
-        <groupId>org.codehaus.mojo</groupId>
-        <artifactId>sonar-maven-plugin</artifactId>
-        <version>3.0.2</version>
-    </plugin>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>18</maven.compiler.source>
